@@ -1,15 +1,15 @@
 const months = ['','enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio','julio', 'agosto', 'septiembre','octubre', 'noviembre','diciembre'];
 
 const data = [
-    {month: 01, value: 10},
-    {month: 01, value: 15},
-    {month: 01, value: 20},
-    {month: 02, value: 40},
-    {month: 02, value: 30},
-    {month: 03, value: 20},
-    {month: 03, value: 15},
+    {month: 1, value: 10},
+    {month: 1, value: 15},
+    {month: 1, value: 20},
+    {month: 2, value: 40},
+    {month: 2, value: 30},
+    {month: 3, value: 20},
+    {month: 3, value: 15},
     {month: 11, value: 15},
-    {month: 09, value: 15},
+    {month: 9, value: 15},
 ];
 
 const result = [
