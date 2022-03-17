@@ -1,0 +1,15 @@
+{
+  "name": "leccion-01",
+  "version": "1.0.0",
+  "description": "proyecto para aprender NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Cesar Gtz Yanez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
